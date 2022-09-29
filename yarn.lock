@@ -2,6 +2,6 @@
 # yarn lockfile v1
 
 
-postgres@porsager/postgres:
+"postgres@https://github.com/porsager/postgres#9a61b9fcec2f4d21d1c6c4e14c73d88010a28406":
   version "3.2.4"
-  resolved "https://codeload.github.com/porsager/postgres/tar.gz/9a61b9fcec2f4d21d1c6c4e14c73d88010a28406"
+  resolved "https://github.com/porsager/postgres#9a61b9fcec2f4d21d1c6c4e14c73d88010a28406"
